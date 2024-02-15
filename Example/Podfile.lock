@@ -108,7 +108,7 @@ SPEC CHECKSUMS:
   MobileVLCKit: f7a39ede91e47e227f8142343b311eb8c634f057
   nanopb: d4d75c12cd1316f4a64e3c6963f879ecd4b5e0d5
   PromisesObjC: c50d2056b5253dadbd6c2bea79b0674bd5a52fa4
-  SIPlayerKit: dfdb3623385e6ebf5d056c3e2f9bc73a770a980d
+  SIPlayerKit: ce9d6c0fee84fb49cfb42d7a92555f74cdc0b0c0
   SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
   TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
 

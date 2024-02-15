@@ -77,9 +77,9 @@ class MyTableViewCell: UITableViewCell {
     }()
     
     lazy var playerContorller: PlayerController = {
-        let ac = PlayerController(player: VLCPlayerWrapper())
+        let ac = PlayerController(player: /*VLCPlayerWrapper()*/ AliPlayerWrapper() /*AVPlayerWrapper()*/ /*AWSPlayerWrapper()*/ )
         ac.setAds(controller: adsController)
-//        ac.setAds(controller: adsBannerController)
+        ac.setAds(controller: adsBannerController)
         ac.setPlayerPanelAds(controller: playerPanelAdsBannerController)
         return ac
     }()
